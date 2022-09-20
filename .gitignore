@@ -1,0 +1,6 @@
+# Unit test / coverage reports
+.coverage
+.coverage.*
+*.cover
+
+.idea

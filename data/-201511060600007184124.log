@@ -1,0 +1,279 @@
+falseTurboManualCraftingMod'
+Starting mod 'UnlimitedItemsMod'
+Starting mod 'InfiniteJetpackFuelMod'
+Starting mod 'InfiniteRebarAmmoMod'
+Starting mod 'InfiniteChainsawAmmoMod'
+Starting mod 'UnlimitedFuelMod'
+Starting mod 'TeleportToPingMod'
+Starting mod 'TeleportMod'
+Starting mod 'InventoryEditorMod'
+m_shared_functions: 0x7ffa3cc12bc0
+Event loop start
+set_script_variable_int32 | return_struct.status: SUCCESS | 1
+set_script_variable_int32 | return_struct.status: SUCCESS | 1
+set_script_variable_int32 | return_struct.status: SUCCESS | 1
+set_script_variable_int32 | return_struct.status: SUCCESS | 1
+set_script_variable_int32 | return_struct.status: SUCCESS | 1
+set_script_variable_int32 | return_struct.status: SUCCESS | 1
+set_script_variable_int32 | return_struct.status: SUCCESS | 1
+set_script_variable_int32 | return_struct.status: SUCCESS | 1
+set_script_variable_int32 | return_struct.status: SUCCESS | 1
+set_script_variable_int32 | return_struct.status: SUCCESS | 1
+set_script_variable_int32 | return_struct.status: SUCCESS | 1
+set_script_variable_int32 | return_struct.status: SUCCESS | 1
+set_script_variable_int32 | return_struct.status: SUCCESS | 1
+set_script_variable_int32 | return_struct.status: SUCCESS | 1
+set_script_variable_int32 | return_struct.status: SUCCESS | 1
+set_script_variable_int32 | return_struct.status: SUCCESS | 1
+Console created
+mod m_mods_directory: D:\...\Satisfactory\Satisfactory_..._CL-172183\Mods
+IsNonPakFilenameAllowed address: 0x7ffa829d3700
+FindFileInPakFiles address: 0x7ffa829cc200
+UObject::ProcessEvent: 0x7ffa6c1979b0 <- Built-in
+UObject GetFullName address: 0x7ffa6c1c1fc0 <- Built-in
+StaticFindObject address: 0x7ffa6c1d78a0 <- Built-in
+FName::ToString address: 0x7ffa6c592340 <- Built-in
+Could not determine Unreal Engine version: The jmp instruction followed by the call instruction is nullptr.
+Going to fallback.
+Detected Unreal Engine version: 4.25 (Method: FALLBACK / much less accurate)
+FName::FName address: 0x7ffa6c57efc0 <- Built-in
+StaticConstructObject_Internal address: 0x7ffa6c1d6440 <- Built-in
+GUObjectArray address: 0x7ffa6c2f6578 [sig#: 1] <- Built-in
+engine major: 4 | engine minor: 25
+uclass: 0x17f9c7f5bc0
+0x2e213 == 0x25a537
+0x2e213 == 0x25b663
+0x2e213 == 0x2e213
+uclass: 0x17f9c7f5bc0
+0x2e213 == 0x25a537
+0x2e213 == 0x25b663
+0x2e213 == 0x2e213
+uclass: 0x17f9c7f5740
+0x4961e == 0x361b2
+0x4961e == 0x278e79
+0x4961e == 0x278e6c
+0x4961e == 0x278e1210byte; exsts:false
+       Install file: C:\Dev\Programs\DbSchema\jre\include\classfile_constants.h; size: 22155 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\include\jawt.h; size: 12458 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\include\jdwpTransport.h; size: 8151 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\include\jni.h; size: 75678 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\include\jvmti.h; size: 84416 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\include\jvmticmlr.h; size: 4771 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\include\win32\bridge\AccessBridgeCallbacks.h; size: 5518 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\include\win32\bridge\AccessBridgeCalls.h; size: 36093 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\include\win32\bridge\AccessBridgePackages.h; size: 77582 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\include\win32\jawt_md.h; size: 1895 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\include\win32\jni_md.h; size: 1580 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.base\ADDITIONAL_LICENSE_INFO; size: 2114 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.base\aes.md; size: 1444 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.base\asm.md; size: 1584 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSches\Dev\Programs\DbSchema\forms\fonts\fa-regular-400.ttf; size: 40348 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\fa-regular-400.woff; size: 18168 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\fa-regular-400.woff2; size: 14868 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\fa-solid-900.eot; size: 180720 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\fa-solid-900.svg; size: 680510 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\fa-solid-900.ttf; size: 180500 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\fa-solid-900.woff; size: 86876 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\fa-solid-900.woff2; size: 67400 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\materialdesignicons-webfont.eot; size: 417036 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\materialdesignicons-webfont.svg; size: 3193566 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\materialdesignicons-webfont.ttf; size: 416816 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\materialdesignicons-webfont.woff; size: 204320 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\materialdesignicons-webfont.woff2; size: 151728 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\img\bx_loader.gif; size: 8581 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\img\close.png; size: 280 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\img\colors\blue\logo.png; size: 1314 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\img\colors\blue\logo50.png; size: 1620 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\img\colors\blue\logo_big.png; size: 2596 bytes; exists: falsere4j.consoleCodepage=cp0
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+exe4j.isInstall4j=true
+java.runtime.version=15.0.2+7
+user.name=...
+path.separator=;
+os.version=10.0
+java.runtime.name=OpenJDK Runtime Environment
+file.encoding=Cp1251
+java.vm.name=OpenJDK 64-Bit Server VM
+java.vendor.version=AdoptOpenJDK
+exe4j.semaphoreName=Local\d:_instal_programs_dbschema_9_0...
+install4j.appDir=C:\...\AppData\Local\Temp\
+java.vendor.url.bug=https://github.com/AdoptOpenJDK/openj...
+java.io.tmpdir=C:\...\AppData\Local\Temp\
+java.version=15.0.2
+user.dir=C:\...\AppData\Local\Temp\...
+os.arch=amd64
+java.vm.specification.name=Java Virtual Machine Specification
+sun.os.patch.level=
+java.library.path=C:\...\appdata\local\temp\...
+java.vm.info=mixed mode
+java.vendor=AdoptOpenJDK
+java.vm.version=15.0.2+7
+sun.io.unicode.encoding=UnicodeLittle
+java.class.version=59.0
+exe4j.launchName=D:\Instal\Programs\DbSchema_9_0_0.exe
+[INFO] my modules file C:\...\AppData\Local\Temp\e4j198B.tmp_dir1653057611\jre\lib\modules, \Device\HarddiskVolume4\...\AppData\Local\Temp\e4j198B.tmp_dir1653057611\jre
+       Property linuxPrivilegeRequirement: None
+       Property allRequested: false
+       Property failIfNotObtainedLinux: false
+       Property failIfNotObtainedMac: true
+       Property failIfNotObtainedWin: true
+       Property failIfNotRootUnix: false
+       Property obtainIfAdminMac: false
+       Property obtainIfAdminWin: true
+       Property obtainIfNormalMac: false
+       Property obtainIfNormalWin: false
+       Property rollbackSupported: false
+       Property updateInstallationDirectory: true
+       Starting elevated helper
+       Using communication backend com.install4j.runtime.installer.platform.win32.Win32CommunicationBackend
+       Execute action successful after 3145 ms
+[INFO] com.install4j.runtime.beans.screens.StartupScreen [ID 1]: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.WelcomeScreen [ID 2]: Show screen
+[INFO] checkiDev\Programs\DbSchema\forms\fonts\fa-regular-400.ttf; size: 40348 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\fa-regular-400.woff; size: 18168 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\fa-regular-400.woff2; size: 14868 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\fa-solid-900.eot; size: 180720 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\fa-solid-900.svg; size: 680510 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\fa-solid-900.ttf; size: 180500 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\fa-solid-900.woff; size: 86876 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\fa-solid-900.woff2; size: 67400 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\materialdesignicons-webfont.eot; size: 417036 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\materialdesignicons-webfont.svg; size: 3193566 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\materialdesignicons-webfont.ttf; size: 416816 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\materialdesignicons-webfont.woff; size: 204320 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\materialdesignicons-webfont.woff2; size: 151728 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\img\bx_loader.gif; size: 8581 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\img\close.png; size: 280 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\img\colors\blue\logo.png; size: 1314 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\img\colors\blue\logo50.png; size: 1620 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\img\colors\blue\logo_big.png; size: 2596 bytes; exists: falsere4j.consoleCodepage=cp0
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+exe4j.isInstall4j=true
+java.runtime.version=15.0.2+7
+user.name=...
+path.separator=;
+os.version=10.0
+java.runtime.name=OpenJDK Runtime Environment
+file.encoding=Cp1251
+java.vm.name=OpenJDK 64-Bit Server VM
+java.vendor.version=AdoptOpenJDK
+exe4j.semaphoreName=Local\d:_instal_programs_dbschema_9_0...
+install4j.appDir=C:\...\AppData\Local\Temp\
+java.vendor.url.bug=https://github.com/AdoptOpenJDK/openj...
+java.io.tmpdir=C:\...\AppData\Local\Temp\
+java.version=15.0.2
+user.dir=C:\...\AppData\Local\Temp\...
+os.arch=amd64
+java.vm.specification.name=Java Virtual Machine Specification
+sun.os.patch.level=
+java.library.path=C:\...\appdata\local\temp\...
+java.vm.info=mixed mode
+java.vendor=AdoptOpenJDK
+java.vm.version=15.0.2+7
+sun.io.unicode.encoding=UnicodeLittle
+java.class.version=59.0
+exe4j.launchName=D:\Instal\Programs\DbSchema_9_0_0.exe
+[INFO] my modules file C:\...\AppData\Local\Temp\e4j198B.tmp_dir1653057611\jre\lib\modules, \Device\HarddiskVolume4\...\AppData\Local\Temp\e4j198B.tmp_dir1653057611\jre
+       Property linuxPrivilegeRequirement: None
+       Property allRequested: false
+       Property failIfNotObtainedLinux: false
+       Property failIfNotObtainedMac: true
+       Property failIfNotObtainedWin: true
+       Property failIfNotRootUnix: false
+       Property obtainIfAdminMac: false
+       Property obtainIfAdminWin: true
+       Property obtainIfNormalMac: false
+       Property obtainIfNormalWin: false
+       Property rollbackSupported: false
+       Property updateInstallationDirectory: true
+       Starting elevated helper
+       Using communication backend com.install4j.runtime.installer.platform.win32.Win32CommunicationBackend
+       Execute action successful after 3145 ms
+[INFO] com.install4j.runtime.beans.screens.StartupScreen [ID 1]: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.WelcomeScreen [ID 2]: Show screen
+[INFO] checkic\legal\java.management.rmi\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.management.rmi\LICENSE; size: 32 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.naming\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.naming\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.naming\LICENSE; size: 32 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.net.http\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.net.http\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.net.http\LICENSE; size: 32 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.prefs\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.prefs\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.prefs\LICENSE; size: 32 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.rmi\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.rmi\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.rmi\LICENSE; size: 32 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.scripting\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.scripting\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.scripting\LICENSE; size: 32 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.se\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.se\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.se\LICENSE; size: 32 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.security.jgss\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: C:\Dev\Programs\DbScema\jr\legaljava.scurity.jgss\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.security.jgss\LICENSE; size: 32 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.security.sasl\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.security.sasl\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.security.sasl\LICENSE; size: 32 bytes; exists: false
+       File options set to: [fileTime: Fri May 20 17:40:13 MSK 2022, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, but not for update, delayIfNecessary: false]
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.smartcardio\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.smartcardio\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.smartcardio\LICENSE; size: 32 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.sql\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.sql\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.sql\LICENSE; size: 32 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\java.sql.rowset\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install z:48 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.crypto.ec\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.crypto.ec\ecc.md; size: 29672 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.crypto.ec\LICENSE; size: 32 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.crypto.mscapi\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.crypto.mscapi\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.crypto.mscapi\LICENSE; size: 32 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.dynalink\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.dynalink\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.dynalink\dynalink.md; size: 1502 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.dynalink\LICENSE; size: 32 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.httpserver\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.httpserver\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.httpserver\LICENSE; size: 32 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.internal.ed\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.internal.ed\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.internal.ed\LICENSE; size: 32 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.internal.jvmstat\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.internal.jvmstat\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.internal.jvmstat\LICENSE; size: 32 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.internal.le\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file C:\Dev\rograms\bSchema\re\legal\jdk.internal.le\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.internal.le\jline.md; size: 1579 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.internal.le\LICENSE; size: 32 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.internal.vm.ci\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.internal.vm.ci\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.internal.vm.ci\LICENSE; size: 32 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.internal.vm.compiler\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.internal.vm.compiler\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.internal.vm.compiler\LICENSE; size: 32 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.internal.vm.compiler.management\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.internal.vm.compiler.management\ASSEMBLY_EXCEPTION; size: 43 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.internal.vm.compiler.management\LICENSE; size: 32 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\jre\legal\jdk.jdwp.agent\ADDITIONAL_LICENSE_INFO; size: 48 bytes; exists: falses\Dev\Programs\DbSchema\forms\fonts\fa-regular-400.ttf; size: 40348 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\fa-regular-400.woff; size: 18168 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\fa-regular-400.woff2; size: 14868 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\fa-solid-900.eot; size: 180720 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\fa-solid-900.svg; size: 680510 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\fa-solid-900.ttf; size: 180500 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\fa-solid-900.woff; size: 86876 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\fa-solid-900.woff2; size: 67400 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\materialdesignicons-webfont.eot; size: 417036 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\materialdesignicons-webfont.svg; size: 3193566 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\materialdesignicons-webfont.ttf; size: 416816 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\materialdesignicons-webfont.woff; size: 204320 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\fonts\materialdesignicons-webfont.woff2; size: 151728 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\img\bx_loader.gif; size: 8581 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\img\close.png; size: 280 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\img\colors\blue\logo.png; size: 1314 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\img\colors\blue\logo50.png; size: 1620 bytes; exists: false
+       Install file: C:\Dev\Programs\DbSchema\forms\img\colors\blue\logo_big.png; size: 2596 bytes; exists: falsere4j.consoleCodepage=cp0
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
